@@ -1,0 +1,39 @@
+{
+  "opinions": [
+    {
+      "id": 1748868372073,
+      "votes": 2,
+      "userName": "Max",
+      "title": "new react action state",
+      "body": "useFormState changed to useActionState in react 19+ version"
+    },
+    {
+      "id": 1748868344619,
+      "votes": 0,
+      "userName": "max",
+      "title": "new react action state",
+      "body": "useFormState changed to useActionState in react 19+ version"
+    },
+    {
+      "id": 1748867614052,
+      "votes": 0,
+      "userName": "max",
+      "title": "i love react",
+      "body": "it is a good language, everyone shold learn it"
+    },
+    {
+      "id": 1,
+      "userName": "Maximilian Schwarzmüller",
+      "title": "Do yourself a favor and learn React!",
+      "body": "React is an amazing JavaScript library!\n\nDespite all it's shortcomings.",
+      "votes": 0
+    },
+    {
+      "id": 2,
+      "userName": "Maximilian Schwarzmüller",
+      "title": "React has more depth than you might first think!",
+      "body": "React is a great library to learn, but it's not just about the basics. Dive deeper!\nFor example with this course!",
+      "votes": 0
+    }
+  ]
+}
